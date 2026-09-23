@@ -1,4 +1,3 @@
-print("hello world!")
 def cal(a,b,s):
     if s == 'add':
         return a+b
