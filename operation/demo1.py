@@ -18,6 +18,6 @@ a = input()
 b = input()
 s = input()
 print(cal(a,b,s))
-print('generate conflict')
+print('hello word!')
 
             
